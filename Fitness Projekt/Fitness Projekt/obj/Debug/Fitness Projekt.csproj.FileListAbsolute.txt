@@ -1,0 +1,45 @@
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.csprojResolveAssemblyReference.cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\App.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt_MarkupCompile.cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\bin\Debug\Fitness Projekt.exe.config
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\bin\Debug\Fitness Projekt.exe
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\bin\Debug\Fitness Projekt.pdb
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt_MarkupCompile.lref
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\MainWindow.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.g.resources
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness_Projekt.Properties.Resources.resources
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.csproj.GenerateResource.Cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.exe
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.pdb
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Kunden.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt\Fitness Projekt\Fitness Projekt\obj\Debug\Kundeninformation.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.csprojResolveAssemblyReference.cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Kunden.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Kundeninformation.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\App.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt_MarkupCompile.cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt_MarkupCompile.lref
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.exe
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.pdb
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\bin\Debug\Fitness Projekt.exe.config
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\bin\Debug\Fitness Projekt.exe
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\bin\Debug\Fitness Projekt.pdb
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Kunden.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Kundeninformation.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\MainWindow.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.g.resources
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness_Projekt.Properties.Resources.resources
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.csproj.GenerateResource.Cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Fitness Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\App.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Kurspläne.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Mitarbeiter.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Terminplaner.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Zeitbuchungen.g.cs
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Kurspläne.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Mitarbeiter.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Terminplaner.baml
+C:\Users\dreherje\Documents\Ausbildung\00 Schule\Projekt\Fitness Projekt V3\Fitness Projekt\Fitness Projekt\obj\Debug\Zeitbuchungen.baml
